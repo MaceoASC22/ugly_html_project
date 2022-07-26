@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: rgb(80, 80, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 15px;
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:100px;
+}
+
+div #starters_image_div img {
+    outline-style: solid;
+    outline-color: rgb(80, 80, 255);
+    outline-offset: 7px;
+    outline-width: 5px;
+    width: 200px;
+}
+
+div #bulbasaur_container {
+    background-color: green;
+}
